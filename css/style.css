@@ -1,7 +1,7 @@
 body {
 
 
-  
+
   font-family: 'Andale Mono' monospace;
 
   /* fallback for old browsers */
@@ -17,7 +17,7 @@ body {
 
 .row {
   margin-right: 250px;
-  margin-left: 300px; 
+  margin-left: 300px;
 }
 
 header {
@@ -56,7 +56,7 @@ footer {
   height: 200px;
   padding-left: 0px;
   padding-right: 0px;
-  
+
 }
 
 .carousel-inner img {
@@ -115,7 +115,7 @@ ul li a {
 
 .carousel-inner h5 {
   font-size: 50px;
-  
+
 }
 
 .bd-placeholder-img {
@@ -169,7 +169,7 @@ body {
 .marketing .col-lg-6 {
     margin-bottom: 1.5rem;
     text-align: center;
-  
+
 }
 
 
@@ -177,15 +177,14 @@ body {
 .row2 {
 
   margin-top: -10px;
-  background-color: #0000ff;
-  height: 80px;
+  background-color: #2bb0bf;
   width: 100%;
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 0 5%;
   position: relative;
-  
+
 }
 
 .row2 ul {
@@ -196,7 +195,6 @@ body {
 
   margin-right: 30px;
   margin-left: 30px;
-  padding: 0px 8px;
   position: relative;
 }
 
@@ -217,13 +215,17 @@ body {
   display: none;
 }
 
+.sous ul {
+  padding-left: 0px;
+}
+
 
 .row2 ul li:hover .sous{
   display: block;
   position: absolute;
   left: 0;
   top: 100%;
-  background-color: #0000ff;
+  background-color: #2bb0bf;
 }
 
 
@@ -236,5 +238,3 @@ body {
   width: 150px;
   padding: 10px;
 }
-
-    
